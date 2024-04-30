@@ -32,3 +32,8 @@ Import Dataset: Import the Failed Banks dataset into Power BI Desktop.
 Explore and Visualize: Utilize Power BI's features to explore and visualize the dataset as per your requirements.
 
 Customization: Customize visualizations and dashboards to suit your analytical needs.
+
+## Power BI Visualization
+
+Explore the Failed Banks dataset visualization on Power BI:
+[Failed Banks Visualization](https://app.powerbi.com/view?r=45fd69ab-f616-4e5a-9159-bb061b14b187)
