@@ -5,7 +5,7 @@ Welcome to the Failed Banks List Visualization repository! This repository conta
 
 
 ## Dataset
-The dataset used in this project is sourced from Data.gov, providing a comprehensive list of failed banks along with relevant information such as closure dates, locations, and assets.
+The dataset used in this project is sourced from Data.gov, providing a comprehensive list of failed banks along with relevant information such as closure dates, locations, and assets. (https://www.fdic.gov/bank/individual/failed/banklist.csv)
 
 ### Features
 
